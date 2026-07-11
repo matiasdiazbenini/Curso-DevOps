@@ -9,6 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Microsoft.OpenApi" Version="1.6.14" />
     <PackageReference Include="Swashbuckle.AspNetCore" Version="6.5.0" />
+    <ProjectReference Include="..\ContactosAPI\ContactosAPI.csproj" />
   </ItemGroup>
 
 </Project>
