@@ -5,7 +5,7 @@ on:
     branches: [ "main" ]
 
 env:
-  IMAGE_BASE_NAME: kd098/apicontactos
+  IMAGE_BASE_NAME: matiasdiazbenini/apicontactos
 
 jobs:
   API_Image:
